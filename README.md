@@ -1,4 +1,4 @@
-BuildingBloCS Hackathon 2024
+BuildingBloCS March Hackathon 2024
 
 Group members: Ang Wei Hao Dexter, 
                Aidan Tang Hao Yang, 
